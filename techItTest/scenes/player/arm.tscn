@@ -1,0 +1,18 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://icon.png" type="Texture" id=1]
+
+[sub_resource type="CapsuleShape2D" id=1]
+radius = 21.4088
+height = 74.6791
+
+[node name="arm" type="KinematicBody2D"]
+position = Vector2( 0, -114.039 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource( 1 )
+
+[node name="Sprite" type="Sprite" parent="."]
+position = Vector2( -0.280608, 0.609037 )
+scale = Vector2( 0.646286, 1.7297 )
+texture = ExtResource( 1 )
