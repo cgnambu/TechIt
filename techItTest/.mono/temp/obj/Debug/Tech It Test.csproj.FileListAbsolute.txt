@@ -1,0 +1,9 @@
+C:\Users\Bryan\Documents\GitHub\TechIt\techItTest\.mono\temp\bin\Debug\Tech It Test.dll
+C:\Users\Bryan\Documents\GitHub\TechIt\techItTest\.mono\temp\bin\Debug\Tech It Test.pdb
+C:\Users\Bryan\Documents\GitHub\TechIt\techItTest\.mono\temp\obj\Debug\Tech It Test.csproj.AssemblyReference.cache
+C:\Users\Bryan\Documents\GitHub\TechIt\techItTest\.mono\temp\obj\Debug\Tech It Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan\Documents\GitHub\TechIt\techItTest\.mono\temp\obj\Debug\Tech It Test.AssemblyInfoInputs.cache
+C:\Users\Bryan\Documents\GitHub\TechIt\techItTest\.mono\temp\obj\Debug\Tech It Test.AssemblyInfo.cs
+C:\Users\Bryan\Documents\GitHub\TechIt\techItTest\.mono\temp\obj\Debug\Tech It Test.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Documents\GitHub\TechIt\techItTest\.mono\temp\obj\Debug\Tech It Test.dll
+C:\Users\Bryan\Documents\GitHub\TechIt\techItTest\.mono\temp\obj\Debug\Tech It Test.pdb

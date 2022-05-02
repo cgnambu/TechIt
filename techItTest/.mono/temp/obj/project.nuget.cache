@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FRSxul95klYMiNZ+oJ/ISIqrB+cVDyA3JOczBh8jKG6fxszkoZKxmgcJsgu2Q00hTSdMstn5QgupQOdMte2MUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bryan\\Documents\\GitHub\\TechIt\\techItTest\\Tech It Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bryan\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\Bryan\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.0\\microsoft.netframework.referenceassemblies.net472.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

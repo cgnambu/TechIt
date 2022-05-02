@@ -11,6 +11,7 @@ config_version=4
 [application]
 
 config/name="Tech It Test"
+run/main_scene="res://scenes/test.tscn"
 config/icon="res://icon.png"
 
 [layer_names]

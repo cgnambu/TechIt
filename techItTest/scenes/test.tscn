@@ -1,18 +1,18 @@
 [gd_scene load_steps=3 format=2]
 
 [ext_resource path="res://scenes/player/playerCore.tscn" type="PackedScene" id=1]
-[ext_resource path="res://scenes/projectile.tscn" type="PackedScene" id=2]
+[ext_resource path="res://scenes/cannon.tscn" type="PackedScene" id=3]
 
 [node name="test" type="Node2D"]
-position = Vector2( 298.431, 216.68 )
 
 [node name="playerCore" parent="." instance=ExtResource( 1 )]
-position = Vector2( 183.138, 340.113 )
+position = Vector2( 484, 551 )
 
-[node name="Projectile" parent="." instance=ExtResource( 2 )]
-position = Vector2( 114.666, -42.2947 )
-YSPEED = 100.0
+[node name="Cannon" parent="." instance=ExtResource( 3 )]
+position = Vector2( 844, 31 )
+rotation = 3.14159
 
-[node name="Projectile2" parent="." instance=ExtResource( 2 )]
-position = Vector2( 235.539, -144.003 )
-YSPEED = 100.0
+[node name="FireTimer" type="Timer" parent="Cannon"]
+autostart = true
+
+[connection signal="timeout" from="Cannon/FireTimer" to="Cannon" method="_on_FireTimer_timeout"]
